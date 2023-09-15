@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\APM02-44\\.nuget\\packages\\": {}
+    "C:\\Users\\velas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\APM02-44\\Actividad\\Boletin\\Boletin.csproj",
+      "projectUniqueName": "C:\\Users\\velas\\Boletin2\\Boletin.csproj",
       "projectName": "Boletin",
-      "projectPath": "C:\\Users\\APM02-44\\Actividad\\Boletin\\Boletin.csproj",
-      "packagesPath": "C:\\Users\\APM02-44\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\APM02-44\\Actividad\\Boletin\\obj\\",
+      "projectPath": "C:\\Users\\velas\\Boletin2\\Boletin.csproj",
+      "packagesPath": "C:\\Users\\velas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\velas\\Boletin2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\APM02-44\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\velas\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

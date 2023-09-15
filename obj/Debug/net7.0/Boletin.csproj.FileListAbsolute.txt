@@ -12,3 +12,17 @@ C:\Users\APM02-44\Actividad\Boletin\obj\Debug\net7.0\refint\Boletin.dll
 C:\Users\APM02-44\Actividad\Boletin\obj\Debug\net7.0\Boletin.pdb
 C:\Users\APM02-44\Actividad\Boletin\obj\Debug\net7.0\Boletin.genruntimeconfig.cache
 C:\Users\APM02-44\Actividad\Boletin\obj\Debug\net7.0\ref\Boletin.dll
+C:\Users\velas\Boletin2\bin\Debug\net7.0\Boletin.exe
+C:\Users\velas\Boletin2\bin\Debug\net7.0\Boletin.deps.json
+C:\Users\velas\Boletin2\bin\Debug\net7.0\Boletin.runtimeconfig.json
+C:\Users\velas\Boletin2\bin\Debug\net7.0\Boletin.dll
+C:\Users\velas\Boletin2\bin\Debug\net7.0\Boletin.pdb
+C:\Users\velas\Boletin2\obj\Debug\net7.0\Boletin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\velas\Boletin2\obj\Debug\net7.0\Boletin.AssemblyInfoInputs.cache
+C:\Users\velas\Boletin2\obj\Debug\net7.0\Boletin.AssemblyInfo.cs
+C:\Users\velas\Boletin2\obj\Debug\net7.0\Boletin.csproj.CoreCompileInputs.cache
+C:\Users\velas\Boletin2\obj\Debug\net7.0\Boletin.dll
+C:\Users\velas\Boletin2\obj\Debug\net7.0\refint\Boletin.dll
+C:\Users\velas\Boletin2\obj\Debug\net7.0\Boletin.pdb
+C:\Users\velas\Boletin2\obj\Debug\net7.0\Boletin.genruntimeconfig.cache
+C:\Users\velas\Boletin2\obj\Debug\net7.0\ref\Boletin.dll
