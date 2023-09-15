@@ -37,7 +37,30 @@
         {
             Console.WriteLine(valor);
         }
+        Console.WriteLine("");
+        openWith.Remove("dib");
+        foreach(string valor in valueColl){
+            Console.WriteLine(valor);
+        }
+
+        Console.WriteLine("");
+        if(openWith.ContainsKey("bmp")){
+            Console.WriteLine("El tipo de formato esta soportado.");
+        }
+        Console.WriteLine("");
         openWith.Clear();
         Console.WriteLine("Total de datos en el diccionario:"+openWith.Count);
+        Console.WriteLine("");
+        if(openWith.ContainsValue("notepad")){
+            Console.WriteLine("El valor se encuentra registrado.");
+
+        }
+        else{
+            Console.WriteLine("El valor no se encuentra registrado.");
+        }
+
+        
+        
+
     }
 }
